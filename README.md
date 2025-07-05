@@ -1,3 +1,3 @@
 ﻿# Café Aurora
 
-https://cafe-aurora.vercel.app/
+👉 [Clique aqui para visitar o site](https://cafe-aurora.vercel.app/)
